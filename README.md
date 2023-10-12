@@ -1,3 +1,3 @@
 # Typescript
 
-All of my typsescript programs will be found here
+All of my typsescript programs and projects will be found here
